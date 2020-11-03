@@ -788,7 +788,7 @@ PrefabInstance:
     - target: {fileID: 114501696213753918, guid: fca9d4afb3743274e8f7da14019d7e0b, type: 3}
       propertyPath: _normcoreAppSettings
       value: 
-      objectReference: {fileID: 11400000, guid: 43c7611d680948b41bf8c172ce2b70a9, type: 2}
+      objectReference: {fileID: 11400000, guid: 0aca7b218764b5f4883ec3042116e5d9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fca9d4afb3743274e8f7da14019d7e0b, type: 3}
 --- !u!1 &1176469635
