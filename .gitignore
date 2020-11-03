@@ -9,6 +9,12 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Assets/Normcore/Resources/
+/Assets/Normal/Resources/
+
+
+# Do not add Normal AppKey assets to repo: user must install the Normcore 2.0.x package and update the AppKey from their own Normal account
+Assets/Normcore/Resources/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -57,4 +63,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
