@@ -1,4 +1,4 @@
-# NormcoreBasic
+# NormcoreXR
 Test repo for Normal's "Normcore 2.0", using Unity XR Rig locomotion
 
 * Using Unity 2020.1.14f1, Normcore 2.0.3, Unity XR Toolkit v0.10.0-preview.7
