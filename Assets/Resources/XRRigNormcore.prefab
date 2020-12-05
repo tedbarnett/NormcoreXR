@@ -1961,6 +1961,8 @@ GameObject:
   - component: {fileID: 1767192437}
   - component: {fileID: 1767192435}
   - component: {fileID: 6232745470614056083}
+  - component: {fileID: 5304533356721099370}
+  - component: {fileID: 4697631118912429158}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2119,6 +2121,46 @@ MonoBehaviour:
       m_Groups: 
       m_Action: Rotation
       m_Flags: 0
+--- !u!114 &5304533356721099370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1767192433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -363599832, guid: 30f4fd177e1fad742be136a8237ab587, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _realtime: {fileID: 0}
+  _sceneViewUUID: 
+  _viewUUID: 
+  _sceneViewPreventOwnershipTakeover: 0
+  _sceneViewDestroyWhenOwnerOrLastClientLeaves: 1
+  _isRootPrefabView: 0
+  _components:
+  - componentID: 1
+    component: {fileID: 4697631118912429158}
+  _childViews: []
+--- !u!114 &4697631118912429158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1767192433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1029778088, guid: 30f4fd177e1fad742be136a8237ab587, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _interpolate: 1
+  _syncPosition: 1
+  _syncRotation: 1
+  _syncScale: 1
+  _syncVelocity: 1
+  _maintainOwnershipWhileSleeping: 0
 --- !u!1 &1980187689
 GameObject:
   m_ObjectHideFlags: 0
@@ -2497,7 +2539,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56f7a77daaa031c408855b73701842e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MoveScheme: 0
+  m_MoveScheme: 1
   m_TurnStyle: 0
   m_MoveForwardSource: 0
   m_ActionAssets:
@@ -2528,7 +2570,7 @@ MonoBehaviour:
   _realtime: {fileID: 0}
   _sceneViewUUID: 
   _viewUUID: 
-  _sceneViewPreventOwnershipTakeover: 0
+  _sceneViewPreventOwnershipTakeover: 1
   _sceneViewDestroyWhenOwnerOrLastClientLeaves: 1
   _isRootPrefabView: 1
   _components:
@@ -2539,6 +2581,8 @@ MonoBehaviour:
     view: {fileID: 962957075005054179}
   - viewID: 3
     view: {fileID: 477585028237610637}
+  - viewID: 1
+    view: {fileID: 5304533356721099370}
 --- !u!114 &-2378294642318870565
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2551,6 +2595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08dff4fb3b027234c8a2562e96aa0846, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _head: {fileID: 0}
-  _leftHand: {fileID: 0}
-  _rightHand: {fileID: 0}
+  _head: {fileID: 1767192434}
+  _leftHand: {fileID: 705080846}
+  _rightHand: {fileID: 502342291}
