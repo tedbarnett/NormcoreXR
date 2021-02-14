@@ -3,7 +3,177 @@ guid: 02c79d1ddcd0fd446898d93577295ecd
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_LEyeLensMat
+    second: {fileID: 2100000, guid: 269b771d72e5044e98c36ab387a4bed0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_REye01Mat
+    second: {fileID: 2100000, guid: d8e70c1e52b6b45ea896c1d9d4f95e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_REyeLensMat
+    second: {fileID: 2100000, guid: a6a994f9d5d1e4d36b5bf43a7ff05d5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_REyeMat
+    second: {fileID: 2100000, guid: 5e09cb68c248648c69987b614e059dd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_TeethTopMat
+    second: {fileID: 2100000, guid: b7c3d33239b654454a58cc84d0737fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_hairMat
+    second: {fileID: 2100000, guid: 6e0a10554561146d99c2744f957d9382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_headMat
+    second: {fileID: 2100000, guid: 855ee8d48dca3455e9864431e9a4f5c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_LSadEyeBMat
+    second: {fileID: 2100000, guid: 38042f649e31a45f2a9613f9b17ed795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_LeyeBupMat
+    second: {fileID: 2100000, guid: 03d3982c2031c46c9b68fb26bf969479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_LeyeCloseA01Mat
+    second: {fileID: 2100000, guid: 7e629e2b537944d3cbc024bbe2d1a382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_LeyeCloseAMat
+    second: {fileID: 2100000, guid: 46bcb12c3b7d94e9fb2765eddc3cb0c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_LeyeLidUpMat
+    second: {fileID: 2100000, guid: 1a68314cdbb9345a3aa97c82ea3cc565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_LmsideMat
+    second: {fileID: 2100000, guid: 7c11e24e11bc24b0798702b70446feb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_LmsideUpMat
+    second: {fileID: 2100000, guid: d97d73e7324e64504a2afcad40922409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_LungryMat
+    second: {fileID: 2100000, guid: 78bfb03cf1cd6447cad2ef8a8bfe83a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_REye_BigIrisMat
+    second: {fileID: 2100000, guid: 25d8f3875547d4e78b7c84aa35983dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_REye_smallIrisMat
+    second: {fileID: 2100000, guid: c4fad376ca7d8496e95bd0e7dafc91a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_RSadEyeBMat
+    second: {fileID: 2100000, guid: 51e7123b35c434d19adc86444d618229, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_ReyeBupMat
+    second: {fileID: 2100000, guid: d433ae8e05e674b1085b011590c8bf14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_ReyeCloseA01Mat
+    second: {fileID: 2100000, guid: 5162483aedca44d8d9277f82c9cb451e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_ReyeCloseAMat
+    second: {fileID: 2100000, guid: 5b8d1b9177b7846cb8956b592f81e0a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_ReyeLidUpMat
+    second: {fileID: 2100000, guid: 04540c9d50f4d485ea4a018db5c97614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_RmsideMat
+    second: {fileID: 2100000, guid: 30579716cd27e44a1aef0aa71f64b222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_RmsideUpMat
+    second: {fileID: 2100000, guid: 84199ba8a20b9488690e01ad6af76c8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_RungryMat
+    second: {fileID: 2100000, guid: 9f1314a2530824200861d71ffb67fb87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_SmileMat
+    second: {fileID: 2100000, guid: 42247c640dad242cea9cc86c88d50e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_headbaseMat
+    second: {fileID: 2100000, guid: dc70525abde1249a39b907d023cb831f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_mCloseMat
+    second: {fileID: 2100000, guid: fdee0b2772f7c4176bfb78d24a49ed42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_mMmMat
+    second: {fileID: 2100000, guid: ae6706cf15091476d9d667104397ac1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_mOpenMat
+    second: {fileID: 2100000, guid: 3b0d192dc1bf84a98a0d461c818bd9a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_mSMat
+    second: {fileID: 2100000, guid: e996b7c8431db4764ae7dcae2baaf716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_mSadMat
+    second: {fileID: 2100000, guid: d2090cb8a21da439d825f850f6621258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_mt_oOoMat
+    second: {fileID: 2100000, guid: 46e29bae831364b5b859c86dcae9778a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tguy1_teethBtnMat
+    second: {fileID: 2100000, guid: 498301fd1145643d9bd11888ba4882ca, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
