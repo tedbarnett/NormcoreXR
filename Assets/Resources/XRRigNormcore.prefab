@@ -1104,7 +1104,8 @@ MonoBehaviour:
   _viewUUID: 
   _sceneViewPreventOwnershipTakeover: 0
   _sceneViewDestroyWhenOwnerOrLastClientLeaves: 1
-  _isRootPrefabView: 0
+  _sceneViewDestroyWhenOwnerOrLastClientLeavesMigrated: 0
+  _sceneViewDestroyWhenLastClientLeaves: 1
   _components:
   - componentID: 1
     component: {fileID: 7048751312766907604}
@@ -1239,7 +1240,8 @@ MonoBehaviour:
   _viewUUID: 
   _sceneViewPreventOwnershipTakeover: 0
   _sceneViewDestroyWhenOwnerOrLastClientLeaves: 1
-  _isRootPrefabView: 0
+  _sceneViewDestroyWhenOwnerOrLastClientLeavesMigrated: 0
+  _sceneViewDestroyWhenLastClientLeaves: 1
   _components:
   - componentID: 1
     component: {fileID: 6508046340028745260}
@@ -2220,7 +2222,8 @@ MonoBehaviour:
   _viewUUID: 
   _sceneViewPreventOwnershipTakeover: 0
   _sceneViewDestroyWhenOwnerOrLastClientLeaves: 1
-  _isRootPrefabView: 0
+  _sceneViewDestroyWhenOwnerOrLastClientLeavesMigrated: 0
+  _sceneViewDestroyWhenLastClientLeaves: 1
   _components:
   - componentID: 1
     component: {fileID: 4697631118912429158}
@@ -2669,7 +2672,8 @@ MonoBehaviour:
   _viewUUID: 
   _sceneViewPreventOwnershipTakeover: 1
   _sceneViewDestroyWhenOwnerOrLastClientLeaves: 1
-  _isRootPrefabView: 1
+  _sceneViewDestroyWhenOwnerOrLastClientLeavesMigrated: 0
+  _sceneViewDestroyWhenLastClientLeaves: 1
   _components:
   - componentID: 1
     component: {fileID: -2378294642318870565}
